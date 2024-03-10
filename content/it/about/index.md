@@ -1,5 +1,5 @@
 ---
-title: "Che Sono"
+title: "Chi Sono"
 description: ""
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
