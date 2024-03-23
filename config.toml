@@ -38,6 +38,21 @@ enableRobotsTXT = true
   recent_posts_number = 3
   contactemail = "info@lorenzoscarpelli.eu"
 
+  [[params.plugins.css]]
+  link = "/bootstrap/dist/css/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "/style.css"
+
+  [[params.plugins.js]]
+  link="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+  [[params.plugins.js]]
+  link = "/bootstrap/dist/js/bootstrap.bundle.min.js"
+  [[params.plugins.js]]
+  link = "/jquery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "/custom/queries.js"
+
+
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/GoHugoIO"
