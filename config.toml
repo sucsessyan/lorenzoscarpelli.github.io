@@ -12,14 +12,10 @@ enableRobotsTXT = true
 
 
 [languages]
-  [languages.en]
-    title = "Lorenzo Scarpelli"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
+
   [languages.it]
     title = "Lorenzo Scarpelli"
-    weight = 2
+    weight = 1
     contentDir = "content/it"
 
 [sitemap]
