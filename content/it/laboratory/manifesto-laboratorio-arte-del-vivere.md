@@ -15,12 +15,28 @@ Il laboratorio (d’ora in avanti, L) vuole venire incontro a questa esigenza, e
 
 Il L mira a offrire una composizione ambientale (non casuale ma studiata con attenzione) che renda possibile uscire dal guscio dentro cui l’educazione, le abitudini e le convenzioni sociali tendono a confinarci.
 
-Gli scopi sono pratici, non teorici. Pierre Hadot ha mostrato come la filosofia del mondo classico (greco e latino) aveva funzione pratica, e quindi etica, ed era rivolta a rispondere alla domanda su come vivere, su come affrontare le relazioni fondamentali della nostra esistenza. Il L intende provare a percorrere qualche passo su questo sentiero, nella consapevolezza che il sentiero stesso non è già tracciato ma va aperto volta per volta. Ogni percorso fatto da altri non è il nostro: ci può interessare, ci può ispirare, ma poi sta a noi disegnare il nostro cammino. Proprio perché il sentiero non è già tracciato è qui possibile dire soprattutto dove non vogliamo andare, ciò che non siamo e ciò che non vogliamo.
+Gli scopi sono pratici, non teorici. Pierre Hadot ha mostrato come la filosofia del mondo classico (greco e latino) aveva funzione pratica, e quindi etica, ed era rivolta a rispondere alla domanda su come vivere, su come affrontare le relazioni fondamentali della nostra esistenza.{{< note >}}
+<button type="button" id="testbtn" class="btn btn-link"
+        data-bs-toggle="popover" data-bs-placement="right"
+        data-bs-custom-class="custom-popover"
+        data-bs-title="Nota"
+        data-bs-content="V. Pierre Hadot: “Esercizi spirituali e filosofia antica”, Einaudi, 2005; “La filosofia come modo di vivere”, Einaudi, 2008">
+  1
+</button>
+{{< /note >}} Il L intende provare a percorrere qualche passo su questo sentiero, nella consapevolezza che il sentiero stesso non è già tracciato ma va aperto volta per volta. Ogni percorso fatto da altri non è il nostro: ci può interessare, ci può ispirare, ma poi sta a noi disegnare il nostro cammino. Proprio perché il sentiero non è già tracciato è qui possibile dire soprattutto dove non vogliamo andare, ciò che non siamo e ciò che non vogliamo.
 
 Non cerchiamo rinvii a una sfera di comprensione delle cose accessibile solo agli eletti e/o accessibile a tutti ma non subito e chissà quando. Aspiriamo a ciò che risulti comprensibile (e quindi ammissibile) a tutti i partecipanti e nell'immediato.
 Abbiamo in uggia la ciarlataneria, le promesse miracolistiche (come tali non mantenibili), l’uso di parole prive di contenuto, la vaghezza. Anche se occorre essere consapevoli che il discorso vago è veicolo di messaggi emozionali, e quindi è dotato di fascino e attrattiva, per quanto (con tali modalità) poco desiderabili.
 
-Non ci interessano le speculazioni intellettuali. Pare ovvio: il L è un’officina pratica, non un’occasione di acculturamento e/o di sfoggio delle proprie conoscenze culturali.
+Non ci interessano le speculazioni intellettuali. Pare ovvio: il L è un’officina pratica, non un’occasione di acculturamento e/o di sfoggio delle proprie conoscenze culturali.{{< note >}}
+<button type="button" id="testbtn" class="btn btn-link"
+        data-bs-toggle="popover" data-bs-placement="right"
+        data-bs-custom-class="custom-popover"
+        data-bs-title="Nota"
+        data-bs-content="Sulla lontananza del sapere filosofico accademico dalla saggezza, v. le parole di un professore contemporaneo: “Eppure tutti noi insieme [i professori del dipartimento di filosofia di Venezia], nei nostri rapporti reciproci, realizziamo una comunità caratterizzata da un tipo di convivenza lontanissimo da ogni esperienza ispirata alla filosofia o alla saggezza” (L.V. Tarca, Un’esperienza di filosofia, in R. Màdera e L.V. Tarca, La filosofia come stile di vita. Introduzione alle pratiche filosofiche, p. X)">
+  2
+</button>
+{{< /note >}}
 
 Il L non è un luogo dove svolgere una terapia psicologica di gruppo. Chi ha bisogno di trattare disturbi psichici, benché non sia per ciò stesso escluso dal L, è bene che si rivolga a un professionista. Nel L si viene perché soffriamo tutti del male di vivere, e tutti siamo mossi dal desiderio di vivere meglio. Questa sofferenza e questo desiderio sono però stati normali dell’esistenza e sono diversi dal disturbo mentale in senso tecnico (anche se, a volte, il confine è incerto e sfumato).
 Il discorso sui temi esistenziali conta solo se si traduce in esperienza di vita. L’arte di vivere non può essere insegnata, ma solo mostrata, e non vi è una vita che sia uguale a un’altra. Un pittore ispira un altro pittore, ma il dipinto del secondo non sarà mai uguale a quello del primo. È una catena di relazioni, e non di identificazioni. Quel che più di tutto rileva è la verità del vissuto; si ricercano testimonianze di vita, e come in tutte le testimonianze occorre che il teste sia onesto.
@@ -94,7 +110,7 @@ Il L è un luogo dove si propongono domande, e dove si propizia un percorso che 
 
 I L aventi per tema la riflessione sul senso stesso dell’intrapresa sono importanti, per analizzare le motivazioni che ci muovono e farne consapevolezza reciproca. Essi vengono tenuti con regolarità nel corso del tempo. Il loro oggetto è, in linea di massima, il seguente:
 
-- senso e motivazioni (“e voi, che cosa cercate?”);
+- senso e motivazioni (*“e voi, che cosa cercate?”*);
 - bilancio dell’esperienza svolta finora (per chi non è nuovo);
 - suggerimenti di sviluppo e conseguente revisione del Manifesto e delle Regole.
 

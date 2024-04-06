@@ -56,11 +56,12 @@
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main class="pb7" role="main">
       <div style="text-align: justify;">
+      
       {{ block "main" . }}{{ end }}
     </div>
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
     {{ partial "js.html" . }}
   </body>
-  
+
 </html>

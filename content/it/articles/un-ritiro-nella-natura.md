@@ -10,8 +10,6 @@ weight: 1
 
 ---
 
-
-
 Abbandonare e abbandonarsi.
 
 Farsi trasportare da un ritmo ineludibile. Il ritmo dettato dalle forze che non possiamo controllare.
@@ -66,7 +64,7 @@ Tutt’intorno la natura, contemplabile. Muschi e licheni, sui tronchi e sulle r
 
 C’è anche del disagio, perché è una situazione diversa dalle nostre abitudini. Mangiare in piedi o appollaiati su una roccia; lavarsi poco o punto; fare i bisogni all’aria aperta. Se il tempo si fa brutto … apprensione: è chiaro che agli elementi là fuori non gliene importa nulla di noi. Ci siamo spogliati delle nostre comodità quotidiane, e non è prevedibile l’effetto che fa.
 
-Le emozioni vogliono essere condivise, è brutto trattenerle a lungo dentro di noi: ci conforta sapere che dopo il pasto della sera ci riuniremo tutti insieme, in una tenda più grande montata ad hoc, per condividere quel che abbiamo provato nel corso della giornata.
+Le emozioni vogliono essere condivise, è brutto trattenerle a lungo dentro di noi: ci conforta sapere che dopo il pasto della sera ci riuniremo tutti insieme, in una tenda più grande montata *ad hoc*, per condividere quel che abbiamo provato nel corso della giornata.
 
 Chi decide di fare una gita lascia scritto in tenda il percorso previsto, per sicurezza. Allontanarsi da soli in montagna: pericoloso? No, ma va fatto con una semplice cautela: affrontare un itinerario nettamente al di sotto dei propri limiti. Non manca un sentiero di quelli facili facili, alla portata di tutti, ben segnato nella cartina topografica. A un’ora prefissata della sera si deve essere al campo, altrimenti scattano le ricerche.
 

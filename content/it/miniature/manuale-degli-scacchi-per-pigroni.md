@@ -30,7 +30,7 @@ Non lasciarsi sedurre da un’idea diversa per nessuna ragione. Evitare le inchi
 
    (ii) per le minacce avversarie.
 
-4) Nell’analisi delle mosse proprie e avversarie prendere in esame anche le posizioni meno evidenti e meno “naturali” (= si escludono solo le case occupate da pezzi del giocatore cui tocca la mossa), con inclusione del sacrificio (soprattutto contro l’arrocco). Regola del pizzicotto! (prima di muovere darsi un pizzicotto per chiedersi: “sono proprio sicuro di voler fare questa mossa?”).
+4) Nell’analisi delle mosse proprie e avversarie prendere in esame anche le posizioni meno evidenti e meno “naturali” (= si escludono solo le case occupate da pezzi del giocatore cui tocca la mossa), con inclusione del sacrificio (soprattutto contro l’arrocco). Regola del *pizzicotto*! (prima di muovere darsi un pizzicotto per chiedersi: *“sono proprio sicuro di voler fare questa mossa?”*).
 
 5) Ricordarsi:
 
@@ -40,7 +40,7 @@ Non lasciarsi sedurre da un’idea diversa per nessuna ragione. Evitare le inchi
 
 6) Ricordarsi di cercare una posizione strategica (case deboli e forti; alfiere cattivo; alfiere in fianchetto; raddoppio torri; comunicazione tra i pezzi); formulare obiettivi; vedere le “posizioni desiderate” (quelle che darebbero un sicuro vantaggio) anche se non subito raggiungibili.
 
-7) Ricordarsi di guardare tutta la scacchiera. In particolare, quando sta all’avversario, accendere il radar: non solo calcolare mosse, ma anche scandagliare la posizione in termini strategici (colonne; diagonali; analisi in trasparenza; posizioni desiderate; possibili temi tattici futuri; ecc.).
+7) Ricordarsi di guardare tutta la scacchiera. In particolare, quando sta all’avversario, accendere il *radar*: non solo calcolare mosse, ma anche scandagliare la posizione in termini strategici (colonne; diagonali; analisi in trasparenza; posizioni desiderate; possibili temi tattici futuri; ecc.).
 
 8) Analisi post apertura alla ricerca delle debolezze e del piano di gioco:
 
@@ -90,4 +90,4 @@ Non lasciarsi sedurre da un’idea diversa per nessuna ragione. Evitare le inchi
 
 14) Mai dare per vinta, o per persa, una partita. Mai giudicare scarse le risorse dell’avversario.
 
-15) Ricordarsi di pensare a questi principi: adottare atteggiamento meta-scacchistico, autoconsapevole!!  Motto: “astrazione” + pizzicotto (pro mossa diversa; pro ricordo dei principi).
+15) Ricordarsi di pensare a questi principi: adottare atteggiamento meta-scacchistico, autoconsapevole!!  Motto: “astrazione” + *pizzicotto* (pro mossa diversa; pro ricordo dei principi).

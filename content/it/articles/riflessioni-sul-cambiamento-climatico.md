@@ -1,27 +1,14 @@
 ---
-
 date: 2024-21-02T10:58:08-04:00
-
 title: "Riflessioni sul cambiamento climatico"
-
 description: ""
-
 featured_image: ""
-
 tags: []
-
 draft: false
-
 file: "/pdf/articles/Riflessioni sul cambiamento climatico.pdf"
-
 weight: 6
-
 ---
-
-
-
 Queste riflessioni non hanno carattere di sistematicità, e traggono spunto da un tema, quello del cambiamento climatico, che dò per conosciuto nei suoi tratti generali. Inoltre scrivo queste righe sulla base di due presupposti che non discuto in questa sede: (i) che il cambiamento climatico sia in corso; (ii) che esso sia in buona parte di origine antropica, a causa di fenomeni come l’aumento dei gas serra in atmosfera derivanti dalle attività umane e i cambiamenti nell’uso del suolo.
-
 
 
 1) La Terra non è in pericolo
@@ -48,7 +35,7 @@ A tale rilievo suole rispondersi che il comportamento virtuoso individuale può 
 
 (ii) la velocità di diffusione è troppo lenta rispetto alla misura del problema climatico con cui ci stiamo confrontando;
 
-(iii) esiste il fenomeno contrario, chiamato negazionismo climatico, ampiamente diffuso, che agisce in senso opposto. La negazione può essere frutto di normali processi cognitivi ed emotivi, di omissioni, di errori sistematici nell’acquisizione e nella rievocazione di informazioni, della necessità umana di percepire controllo e di preservare una visione positiva di sé. Esiste perfino una spiegazione evoluzionista. Secondo tale modello (“P.A.I.N.”), il nostro cervello risponderebbe a minacce in cui compare un nemico (Personal), improvvise (Abrupt), che prevedono infrazioni morali (Immoral) e presenti nel qui e ora (Now). Il nostro sistema cerebrale, quindi, non sarebbe configurato per riconoscere la minaccia del cambiamento climatico, che è graduale, senza chiari aspetti di agentività umana o morali, e proiettato in un futuro astratto.
+(iii) esiste il fenomeno contrario, chiamato negazionismo climatico, ampiamente diffuso, che agisce in senso opposto. La negazione può essere frutto di normali processi cognitivi ed emotivi, di omissioni, di errori sistematici nell’acquisizione e nella rievocazione di informazioni, della necessità umana di percepire controllo e di preservare una visione positiva di sé. Esiste perfino una spiegazione evoluzionista. Secondo tale modello (“P.A.I.N.”), il nostro cervello risponderebbe a minacce in cui compare un nemico (*Personal*), improvvise (*Abrupt*), che prevedono infrazioni morali (*Immoral*) e presenti nel qui e ora (*Now*). Il nostro sistema cerebrale, quindi, non sarebbe configurato per riconoscere la minaccia del cambiamento climatico, che è graduale, senza chiari aspetti di agentività umana o morali, e proiettato in un futuro astratto.
 
 Occorrono misure cospicue (anche in termini di costi), principalmente volte a ridurre il consumo di energia e/o a compensarlo con strumenti riparatori delle immissioni di CO2 (per esempio l’impianto di alberi), se si vuole rallentare davvero il cambiamento climatico in corso; misure irrealizzabili senza l’adozione di provvedimenti normativi generalizzati.
 
@@ -72,15 +59,15 @@ L’allarme degli scienziati è noto da molti decenni e risale oramai al giugno 
 
 Osservazione dai riflessi tragici: se la pressione antropica incontrollata sulla biosfera rientra nella nostra più profonda natura, essendo questa immodificabile in tempi storici non abbiamo soluzioni al problema.
 
-Però va fatta una notazione importante: natura e cultura sono in homo sapiens strettamente intrecciati, inseparabili, consustanziali. Oggi vi è un fatto culturale nuovo: la consapevolezza della questione del cambiamento climatico. I “distruttori” che ci hanno preceduto non sapevano nulla degli effetti delle loro azioni sul clima terrestre. Noi oggi lo sappiamo. Questo può fare la differenza, proprio perché le azioni umane non sono scisse dai sistemi di credenze e di valori dei relativi attori. Inoltre gli umani possiedono una certa attitudine a fare il loro interesse anche in maniera lungimirante, e non solo sotto l’effetto di pulsioni immediate.
+Però va fatta una notazione importante: natura e cultura sono in *homo sapiens* strettamente intrecciati, inseparabili, consustanziali. Oggi vi è un fatto culturale nuovo: la consapevolezza della questione del cambiamento climatico. I “distruttori” che ci hanno preceduto non sapevano nulla degli effetti delle loro azioni sul clima terrestre. Noi oggi lo sappiamo. Questo può fare la differenza, proprio perché le azioni umane non sono scisse dai sistemi di credenze e di valori dei relativi attori. Inoltre gli umani possiedono una certa attitudine a fare il loro interesse anche in maniera lungimirante, e non solo sotto l’effetto di pulsioni immediate.
 
-Certamente la sfida è enorme, e di questo occorre fare consapevolezza. Si tratta di capire se e come comportamenti collettivi consolidati, improntati al consumo sempre maggiore di risorse energetiche (con conseguente immissione di gas serra in atmosfera), possano essere invertiti. Occorre studiare quali tratti antropologici siano soggiacenti al consumo di energia, e se si tratti di funzioni sostituibili o meno; se si tratti di una formula natural-culturale ineliminabile, oppure no. Un mio piccolo contributo in proposito sta nell’articolo Alle origini della felicità.
+Certamente la sfida è enorme, e di questo occorre fare consapevolezza. Si tratta di capire se e come comportamenti collettivi consolidati, improntati al consumo sempre maggiore di risorse energetiche (con conseguente immissione di gas serra in atmosfera), possano essere invertiti. Occorre studiare quali tratti antropologici siano soggiacenti al consumo di energia, e se si tratti di funzioni sostituibili o meno; se si tratti di una formula natural-culturale ineliminabile, oppure no. Un mio piccolo contributo in proposito sta nell’articolo *Alle origini della felicità*.
 
 Bisogna inoltre avere consapevolezza che l’umanità, con riferimento ai problemi climatici, potrebbe trovarsi in uno stato c.d. di “ipocognizione”, vale a dire uno stato di mancanza delle parole e dei modelli di interpretazione necessari per capire la realtà. Per esempio, il concetto di “ambiente” è rappresentato e percepito come esterno a noi, come qualcosa che ci circonda, e quindi attraverso il linguaggio fatichiamo a esprimere l’idea che noi siamo parte dell’ambiente.
 
 Uno studio (quello sul se e come l’umanità possa davvero gestire la crisi climatica) che ovviamente richiede altre menti ed altre sedi.
 
-Un’eventuale risposta negativa al quesito iniziale (“non siamo in grado di frenare le pulsioni energivore dell’umanità”) non rappresenta una sicura condanna alla catastrofe. Resta l’ultima opzione, quella che vede homo faber come supremo manipolatore dell’ambiente, fino al punto di essere in grado di ridurre l’innalzamento delle temperature controllandone direttamente alcuni fattori. Dallo stoccaggio sotterraneo dell’anidride carbonica alla manipolazione dei gas presenti in atmosfera e nei mari; dal mutamento del colore delle strade e delle colture fino al filtraggio dei raggi solari medianti schermi collocati nel punto lagrangiano L1 (fra il Sole e la Terra a 1,5 milioni di km dal nostro pianeta, laddove le forze gravitazionali prodotte dai due corpi e la forza centripeta orbitale si equilibrano esattamente): l’ingegneria ambientale è in pieno sviluppo e non possiamo sapere dove ci porterà. Un’opzione, si noti, che non è alternativa bensì potrebbe affiancarsi a quella della riduzione del consumo di energia (se mai l’umanità nel suo complesso ne fosse capace).
+Un’eventuale risposta negativa al quesito iniziale (“non siamo in grado di frenare le pulsioni energivore dell’umanità”) non rappresenta una sicura condanna alla catastrofe. Resta l’ultima opzione, quella che vede *homo faber* come supremo manipolatore dell’ambiente, fino al punto di essere in grado di ridurre l’innalzamento delle temperature controllandone direttamente alcuni fattori. Dallo stoccaggio sotterraneo dell’anidride carbonica alla manipolazione dei gas presenti in atmosfera e nei mari; dal mutamento del colore delle strade e delle colture fino al filtraggio dei raggi solari medianti schermi collocati nel punto lagrangiano L1 (fra il Sole e la Terra a 1,5 milioni di km dal nostro pianeta, laddove le forze gravitazionali prodotte dai due corpi e la forza centripeta orbitale si equilibrano esattamente): l’ingegneria ambientale è in pieno sviluppo e non possiamo sapere dove ci porterà. Un’opzione, si noti, che non è alternativa bensì potrebbe affiancarsi a quella della riduzione del consumo di energia (se mai l’umanità nel suo complesso ne fosse capace).
 
 Tuttavia, anche gli interventi ingegneristici richiedono decisioni politiche su vasta scala, e quindi ancora una volta torna in primo piano la “cabina elettorale” e, più in generale, gli interessi economici dei vari paesi del mondo.
 
@@ -127,8 +114,17 @@ Sono stati individuati numerosi punti critici, o di non ritorno, vale a dire pun
 8) sbiancamento delle barriere coralline;
 
 9) spostamento della foresta boreale e aumento nel regime e intensità dei disturbi (incendi, attacchi parassitari, ecc.).
+{{< note >}}
+<button type="button" id="testbtn" class="btn btn-link"
+        data-bs-toggle="popover" data-bs-placement="right"
+        data-bs-custom-class="custom-popover"
+        data-bs-title="Nota"
+        data-bs-content="Molti dei dati esposti nel presente articolo sono tratti da “Nuovo lessico e nuvole. Le parole del cambiamento climatico”, a cura di Gianni Latini, Marco Bagliani, Tommaso Orusa, Università degli studi di Torino, 2020: un testo divulgativo di eccellente fattura (che nella versione scaricabile on line è gratuito">
+  1
+</button>
+{{< /note >}}
 
-Confesso che, di fronte alla mia impotenza in relazione alla vastità dei problemi e delle minacce, mi capita di aver voglia di guardare da un’altra parte, ed anche lo faccio, di continuo. Anch’io mi rallegro di una bella giornata primaverile in pieno inverno. Poi però qualche volta mi viene in mente che appartengo alla specie homo sapiens e non a quella Struthio camelus (volgarmente, struzzo), e cerco di fare qualcosa, tipo scrivere questo articolo.
+Confesso che, di fronte alla mia impotenza in relazione alla vastità dei problemi e delle minacce, mi capita di aver voglia di guardare da un’altra parte, ed anche lo faccio, di continuo. Anch’io mi rallegro di una bella giornata primaverile in pieno inverno. Poi però qualche volta mi viene in mente che appartengo alla specie *homo sapiens* e non a quella *Struthio camelus* (volgarmente, struzzo), e cerco di fare qualcosa, tipo scrivere questo articolo.
 
 
 

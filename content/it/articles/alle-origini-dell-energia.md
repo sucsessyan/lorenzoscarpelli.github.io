@@ -28,15 +28,15 @@ Facciamo però un passo indietro e partiamo da una nozione fondamentale. In tutt
 Il complesso ATP/ADP è la batteria universale dei sistemi viventi, il suo meccanismo di funzionamento è l’unico attraverso il quale tutti gli esseri viventi (piante incluse) utilizzano l’energia per tutti i loro processi vitali. L’energia del sole, al pari dell’energia derivante dagli alimenti, per poter essere sfruttata deve passare attraverso tale batteria. Il complesso ATP/ADP è la “moneta” universale con cui gli esseri viventi “acquistano” la capacità di produrre lavoro, vale a dire di svolgere tutte le loro funzioni vitali. Non ci sono altre forme, non ci sono altri mediatori. Una barretta di cioccolato per darci forza deve diventare (= consentire di produrre) ATP; la radiazione solare per far crescere le piante deve diventare (= consentire di produrre) ATP.
 
 La reazione chimica che fa passare l’ATP a ADP - rompendo il legame con un gruppo fosfato (P) e rilasciando energia - si chiama idrolisi, ed avviene spontaneamente per mezzo dell’acqua. Tale reazione fa parte di quelle chiamate esoergoniche perché (al contrario di quelle endoergoniche) avviene con emissione di energia. Ciò accade quando un sistema perde ordine: uno stato ordinato è più energetico di uno disordinato (come misura del disordine si usa una grandezza detta entropia). Una molecola che collega tre gruppi fosfato è più ordinata e più energetica di una che ne lega soltanto due. Essa contiene una forma di energia potenziale, chiamata energia chimica, che può essere liberata dalla reazione chimica di idrolisi. Siccome l’energia né si crea né si distrugge, l’equazione è: ‘sistema ordinato’ (ATP) = ‘sistema meno ordinato’ (ADP + P) + ‘energia utilizzabile per compiere lavoro’ (chiamata energia libera). Si noti che un processo che si verifica spontaneamente deve sempre aumentare l’entropia dell’universo (seconda legge della termodinamica).
-{{< rawhtml >}}
-<button type="button" id="testbtn" class="btn btn-secondary"
+{{< note >}}
+<button type="button" id="testbtn" class="btn btn-link"
         data-bs-toggle="popover" data-bs-placement="right"
         data-bs-custom-class="custom-popover"
-        data-bs-title="1"
+        data-bs-title="Nota"
         data-bs-content="In rete si trovano molte belle immagini della struttura del complesso ATP/ADP, così come della struttura e del funzionamento dell’enzima costruttore dell’ATP, l’ATPsintasi, di cui parlo più avanti nel testo.">
   1
 </button>
-{{< /rawhtml >}}
+{{< /note >}}
 
 
 Torniamo al nostro complesso molecolare. La batteria una volta scaricata (vale a dire una volta idrolizzato l’ATP in ADP) è ricaricabile, e tale ricarica riducendo l’entropia del sistema ovviamente richiede energia. La ricarica è ciò che facciamo quando ci nutriamo: il cibo che consumiamo è l’alimentatore della nostra batteria ad ATP, consentendo di aggiungere una molecola di acido fosforico all’ADP, e quindi di rigenerare ATP da ADP. Tale processo si chiama fosforilazione. Una cellula muscolare in attività ricicla tutto l’ATP in essa contenuto in meno di un minuto. Tale ricambio significa il consumo e la rigenerazione di 10 milioni di molecole di ATP al secondo per cellula. Il tutto avviene in organelli della cellula chiamati mitocondri, e nel complesso questo processo prende il nome di respirazione cellulare: si parte da un composto organico (per esempio un carboidrato) + ossigeno e si ottiene anidride carbonica + acqua + energia.

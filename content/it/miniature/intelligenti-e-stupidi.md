@@ -7,9 +7,9 @@ tags: []
 draft: false
 weight: 2
 ---
-La frase proposta dalla redazione della rivista, “Il problema dell’umanità è che gli stupidi sono pieni di certezze, mentre gli intelligenti sono pieni di dubbi”, merita le seguenti critiche.
+La frase proposta dalla redazione della rivista, *“Il problema dell’umanità è che gli stupidi sono pieni di certezze, mentre gli intelligenti sono pieni di dubbi”*, merita le seguenti critiche.
 
-1) Distingue intelligenti e stupidi come se tali due categorie fossero separabili con chiarezza; quando invece vi è un continuum nel percorso dalla stupidità all’intelligenza, e tali due tratti non possono essere considerati in termini digitali, bensì in termini analogici.
+1) Distingue intelligenti e stupidi come se tali due categorie fossero separabili con chiarezza; quando invece vi è un *continuum* nel percorso dalla stupidità all’intelligenza, e tali due tratti non possono essere considerati in termini digitali, bensì in termini analogici.
 
 2) Presuppone una nozione unitaria di intelligenza; quando invece sembra più aderente al vero una concezione plurale della stessa, con la conseguenza che in una persona possono coesistere un’elevata intelligenza in un ambito (per esempio quello artistico), e una scarsa intelligenza in un altro ambito (per esempio quello matematico, oppure quello motorio).
 3) Presuppone che l’intelligenza non sia condizionata dagli stati emotivi della persona, e quindi non vari nel tempo; quando invece è molto diffusa l’esperienza del contrario.
