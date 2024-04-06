@@ -5,7 +5,7 @@ description: ""
 featured_image: ""
 tags: []
 draft: false
-file: "/pdf/articles/Il libero arbitrio tra paradossi e felicità.pdf"
+file: "/pdf/articles/Il libero arbitrio tra paradossi e felicita.pdf"
 weight: 7
 ---
 

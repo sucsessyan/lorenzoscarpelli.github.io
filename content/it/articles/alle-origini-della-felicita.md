@@ -5,7 +5,7 @@ description: ""
 featured_image: ""
 tags: []
 draft: false
-file: "/pdf/articles/Alle origini della felicità.pdf"
+file: "/pdf/articles/Alle origini della felicita.pdf"
 weight: 5
 ---
 
