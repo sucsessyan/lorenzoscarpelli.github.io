@@ -88,4 +88,4 @@ Tutto ciò sarà superato (forse) nel processo futuribile immaginato all’inizi
 
 Naturalmente, le questioni qui trattate non esauriscono gli argomenti meritevoli di una disamina. Esse tuttavia, nei limiti dello spazio consentito in questa sede, sono quelle che mi sono apparse le più adatte a mostrare una visione del mondo dell’avvocatura un poco diversa da quel che spesso capita di ascoltare.
 
-######Articolo pubblicato in Pegaso, n. 221, gennaio-aprile 2025
+###### Articolo pubblicato in Pegaso, n. 221, gennaio-aprile 2025

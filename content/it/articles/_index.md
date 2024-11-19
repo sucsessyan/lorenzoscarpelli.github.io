@@ -21,5 +21,6 @@ Di seguito l’elenco, nell’ordine in cui appaiono nel sito.
 11) [Scontro con Montaigne](/articles/scontro-con-montaigne/)
 12) [Incontro con Lin Yutang - prima parte](/articles/incontro-con-lin-yutang-prima-parte/)
 13) [Incontro con Lin Yutang - seconda parte](/articles/incontro-con-lin-yutang-seconda-parte/)
-14) [Tutti i gusti son gusti ](/articles/tutti-i-gusti-son-gusti/)
-15) [Appunti sul viaggio ](/articles/appunti-sul-viaggio/)
+14) [Su avvocati, clienti e giudici ](/articles/su_avvocati_clienti_e_giudici/)
+15) [Tutti i gusti son gusti ](/articles/tutti-i-gusti-son-gusti/)
+16) [Appunti sul viaggio ](/articles/appunti-sul-viaggio/)
